@@ -6,7 +6,7 @@ public class MainFrame extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(width, height);
 
-        MainPanel mainPanel = new MainPanel(100, 1, width/2, width, height);
+        MainPanel mainPanel = new MainPanel(100, 10, width/2, width, height);
         getContentPane().add(mainPanel);
 
         setVisible(true);

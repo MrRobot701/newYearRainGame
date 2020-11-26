@@ -5,6 +5,6 @@ public class Game {
     }
 
     public void start() {
-        MainFrame mainFrame = new MainFrame(1200, 200);
+        MainFrame mainFrame = new MainFrame(1200, 500);
     }
 }
