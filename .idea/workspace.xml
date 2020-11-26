@@ -19,19 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d8b4237-d13b-4bfd-8443-4aa4121249b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/newYearRainGame/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/newYearRainGame/MainFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/MainPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/newYearRainGame/MainPanel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/MainPanel$MyKeyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/newYearRainGame/MainPanel$MyKeyListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/MainPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/newYearRainGame/MainPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/utils/CyclicCoordinate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/CyclicCoordinate.java" beforeDir="false" />
+    <list default="true" id="6d8b4237-d13b-4bfd-8443-4aa4121249b9" name="Default Changelist" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/MainPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/MainPanel$MyKeyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/MainPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newYearRainGame/images/hat.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +87,14 @@
       <option name="presentableId" value="Default" />
       <updated>1606135710619</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1606394843333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606394843334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,32 +113,34 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1606209494674">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606209494674" />
-    <state width="1878" height="157" key="GridCell.Tab.0.bottom" timestamp="1606394238873">
+    <state width="1878" height="157" key="GridCell.Tab.0.bottom" timestamp="1606394826782">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606248793908" />
-    <state width="1878" height="157" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1606394238873" />
-    <state width="1878" height="157" key="GridCell.Tab.0.center" timestamp="1606394238873">
+    <state width="1878" height="157" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1606394826782" />
+    <state width="1878" height="157" key="GridCell.Tab.0.center" timestamp="1606394826782">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606248793907" />
-    <state width="1878" height="157" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1606394238873" />
-    <state width="1878" height="157" key="GridCell.Tab.0.left" timestamp="1606394238873">
+    <state width="1878" height="157" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1606394826782" />
+    <state width="1878" height="157" key="GridCell.Tab.0.left" timestamp="1606394826782">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606248793907" />
-    <state width="1878" height="157" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1606394238873" />
-    <state width="1878" height="157" key="GridCell.Tab.0.right" timestamp="1606394238873">
+    <state width="1878" height="157" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1606394826782" />
+    <state width="1878" height="157" key="GridCell.Tab.0.right" timestamp="1606394826782">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606248793908" />
-    <state width="1878" height="157" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1606394238873" />
+    <state width="1878" height="157" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1606394826782" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1606162948265">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
