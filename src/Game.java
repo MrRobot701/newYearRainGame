@@ -4,6 +4,10 @@ public class Game {
         game.start();
     }
 
+    public Game() {
+
+    }
+
     public void start() {
         MainFrame mainFrame = new MainFrame(1200, 500);
     }
