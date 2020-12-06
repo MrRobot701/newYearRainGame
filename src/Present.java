@@ -30,7 +30,7 @@ public class Present {
     }
 
     public void start() {
-        y = 0;
+        y = (int)(Math.random()*heightScreen/2);
         x = (int)(Math.random()*widthScreen); // 0 <= x < widthScreen
         active = true;
         presentAnimation.start();
